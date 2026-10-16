@@ -2,8 +2,8 @@
 # rewrites `version` and `sha256` here after it publishes a release. Install with:
 #   brew install --cask dishant0406/akidev/akidev
 cask "akidev" do
-  version "0.1.6"
-  sha256 "fb485091332fe783acf5486e42c6b8fb9b3c7e9fbd536706792c749da275440a"
+  version "0.1.7"
+  sha256 "21560f75ecc71c702cb8f8cb54da6bb3612afe70e6e699f45b7101172faec793"
 
   url "https://github.com/dishant0406/konflix-mono/releases/download/desktop-mac-v#{version}/Akidev-#{version}-arm64.dmg"
   name "Akidev"
